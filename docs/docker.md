@@ -6,7 +6,7 @@ Este documento muestra el despliegue mediante Docker de la documentación estát
 ## Fase 1: Preparación del Entorno
 
 ## Ejecución del contenedor Docker
-![docker run](/docs/imagen/1docker.png)
+![docker run](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/1docker.png)
 
 Comando ejecutado para levantar el contenedor:
 
@@ -48,7 +48,7 @@ Resultado en el navegador
 
 [Aqui se veria desde mi maquina la pagina de nginx](http://localhost:8085)
 
-![docker run](/docs/imagen/2docker.png)
+![docker run](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/2docker.png)
 
 ## Conclusiones Finales
 

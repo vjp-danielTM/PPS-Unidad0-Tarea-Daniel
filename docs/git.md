@@ -7,7 +7,7 @@ El proyecto consiste en una calculadora en Python con documentación automatizad
 ## Fase 1: Preparación del Entorno
 
 ## Configuración de Archivos del Proyecto
-![imagen1](docs/imagen/1git.png)
+![imagen1](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/1git.png)
 
 En esta fase inicial, se organizan los archivos necesarios para el proyecto:
 
@@ -31,7 +31,7 @@ ls
 ## Fase 2: Creación de Documentación
 
 #### Estructura de Archivos de Documentación
-![imagen2](/docs/imagen/2git.png)
+![imagen2](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/2git.png)
 
 Se crea la estructura completa de documentación técnica:
 
@@ -53,7 +53,7 @@ Se crea la estructura completa de documentación técnica:
 ## Fase 3: Commit y Despliegue
 
 ### Subida del Proyecto a GitHub
-![imagen3](/docs/imagen/3git.png)
+![imagen3](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/3git.png)
 
 Una vez configurado todo el proyecto, se procede al commit y push:
 
@@ -69,7 +69,7 @@ Una vez configurado todo el proyecto, se procede al commit y push:
 ## Fase 4: Verificación Final
 
 ### Estado del Repositorio
-![imagen4](/docs/imagen/4git.png)
+![imagen4](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/4git.png)
 
 Se verifica la estructura y el estado del repositorio en GitHub:
 

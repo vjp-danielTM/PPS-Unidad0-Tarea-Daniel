@@ -7,19 +7,19 @@ Guía completa para configurar y desplegar la documentación en GitHub Pages, ha
 ### 1. Configuración de GitHub Pages
 Entré en Settings → Pages y configuré el despliegue desde la rama gh-pages.
 
-![Configuración de GitHub Pages – rama gh-pages seleccionada](/docs/imagen/1workflow.png)
+![Configuración de GitHub Pages – rama gh-pages seleccionada](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/1workflo)
 
 ### 2. Creación y prueba del workflow en GitHub Actions
 Creé el archivo `.github/workflows/deploy-mkdocs.yml`.  
 Cada push a main ejecuta automáticamente el workflow “Deploy MkDocs”.
 
-![Se ve el workflow creado y ejecutado correctamente](/docs/imagen/3workflow.png)
+![Se ve el workflow creado y ejecutado correctamente](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/3workflo)
 
 
 ### 3. Resultado final: sitio web publicado
 La documentación ya está publicada y accesible públicamente en GitHub Pages.
 
-![Sitio web de documentación generado con MkDocs](/docs/imagen/4workflow.png)
+![Sitio web de documentación generado con MkDocs](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/4workflo)
 
 
 ### 4. Contenido de la documentación publicada
@@ -31,7 +31,7 @@ La documentación ya está publicada y accesible públicamente en GitHub Pages.
 
 ## Workflow paso a paso (lo que hace GitHub Actions)
 
-![Logs detallados del workflow](/docs/imagen/2workflow.png)
+![Logs detallados del workflow](https://raw.githubusercontent.com/vjp-danielTM/PPS-Unidad0-Tarea-Daniel/refs/heads/main/docs/imagen/2workflo)
 
 
 

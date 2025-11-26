@@ -1,7 +1,5 @@
 # Conclusiones
 
----
-
 ### 1. Control de versiones de GitHub
 
 En cuanto a git no tuve ningun problema, son cosas que hicimos en clase como todas pero en el caso de git no tuve problemas.
@@ -29,6 +27,8 @@ El despliegue del contenedor con Docker y NGINX ha sencillo por la documentacion
 ### 5. Documentación técnica con Markdown
 
 Markdown es en lo que mas tiempo me he tirado creo que por mi inexperiencia porque a medida que iba haciendo documentaciones me salia todo un poco mas de cabeza sin tener que mirar el repositorio del profesor.
+
+---
 
 ### Mi conclusion final
 
