@@ -48,10 +48,7 @@ Resultado en el navegador
 
 [Aqui se veria desde mi maquina la pagina de nginx](http://localhost:8085)
 
-
 ![docker run](/docs/imagen/2docker.png)
-
-
 
 ## Conclusiones Finales
 
@@ -69,4 +66,3 @@ Resultado en el navegador
 
 5. **Aprendizaje práctico de contenedores:**  
    Este ejercicio demuestra de forma clara y sencilla los conceptos clave de Docker: imágenes, contenedores, puertos, volúmenes y ejecución en segundo plano, todo aplicado a un caso real de entrega de una tarea.
-
