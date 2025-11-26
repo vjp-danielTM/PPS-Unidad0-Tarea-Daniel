@@ -7,7 +7,7 @@ El proyecto consiste en una calculadora en Python con documentación automatizad
 ## Fase 1: Preparación del Entorno
 
 ## Configuración de Archivos del Proyecto
-![imagen1](/docs/imagen/1git.png)
+![imagen1](docs/imagen/1git.png)
 
 En esta fase inicial, se organizan los archivos necesarios para el proyecto:
 
