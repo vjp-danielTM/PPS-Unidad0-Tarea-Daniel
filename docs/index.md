@@ -19,18 +19,13 @@ Documentación completa de los comandos de Git utilizados para crear y gestionar
 Explicación del workflow de CI/CD implementado para generar automáticamente la documentación con MkDocs tras cada push al repositorio.
 
 **Contenido:**
-- Introducción a GitHub Actions
-- Estructura del workflow
-- Explicación paso a paso del código YAML
-- Flujo completo de ejecución
-- Monitorización y depuración
-- Ventajas de la automatización
+- Explicación del Workflow
 
 ### 3. [GitHub Pages](gitPages.md)
+Guía completa para configurar y desplegar la documentación en GitHub Pages, haciendo que sea accesible públicamente en internet.
 
-
-
-
+**Contenido:**
+- Explicación del Workflow
 
 ### 4. [Docker](docker.md)
 Documentación del proceso para servir la documentación localmente utilizando un contenedor Docker con NGINX como servidor web.

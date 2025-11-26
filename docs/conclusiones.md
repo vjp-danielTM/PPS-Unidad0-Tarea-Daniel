@@ -16,7 +16,7 @@ La implementación de workflows ha sido de lo mas complicado pero una vez hecho 
 
 ### 3. GitHub Pages
 
-Haber logrado desplegar la documentación en un sitio web público y accesible para que pueda evaluarlo el profesor aunque aun sigo sin saber como poner las imagenes bien investigue con chat gpt pero me daba cosas que no entendia y para poner algo que no se explicar como lo hice prefiero no ponerlo.
+Haber logrado desplegar la documentación en un sitio web público y accesible para que pueda evaluarlo el profesor ha sido gratificante el ver lo conseguido despues de hacerlo.
 
 ---
 
