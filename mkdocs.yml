@@ -16,7 +16,7 @@ nav:
   - Git: git.md
   - GitActions: gitActions.md
   - GitPages: gitPages.md
-  - Docker: /docs/docker.md
+  - Docker: docs/docker.md
   - Conclusiones: conclusiones.md
   # Se pueden añadir subsecciones anidando listas:
   # - Referencia: 
